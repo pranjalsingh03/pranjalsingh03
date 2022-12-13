@@ -1,5 +1,6 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Pranjal Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+Hello everyone this is pranjal magan singh
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
   [![linkedin](https://img.shields.io/badge/pranjalsingh03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjalsingh03/) [![Instagram](https://img.shields.io/badge/king_of_hearts728-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/king_of_hearts728/)
