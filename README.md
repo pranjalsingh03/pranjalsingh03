@@ -15,8 +15,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Calendar 
-- 🌱 I’m currently learning Javascript and Python
+- 🔭 I’m currently working on Calculator 
+- 🌱 I’m currently learning Java
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: https://www.linkedin.com/in/pranjalsingh03/
 - 😄 Pronouns: He/His
