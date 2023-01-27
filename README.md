@@ -13,13 +13,5 @@
 **pranjalsingh03/pranjalsingh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Calculator 
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: https://www.linkedin.com/in/pranjalsingh03/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Leader 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranjalsingh03)](https://git.io/streak-stats)
