@@ -9,6 +9,7 @@
  ![bar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) <br>
   <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=1075&lines=I+love+connecting+with+different+people.+so+if+you+want+to+say+hi%2C+I'll+be+happy+to+meet+you+more!+%3A)" alt="Typing SVG" /></a></div>
   ![bar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
 <!--
 **pranjalsingh03/pranjalsingh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,3 +21,7 @@
  -->
 <!--  -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranjalsingh03)](https://git.io/streak-stats)
+<h2>Weekly development breakdown</h2>
+<img src="https://wakatime.com/share/@pranjalsingh03/d13d072a-ca9e-4405-be30-b3ae56fbe12c.svg" alt="Wakatime Stats" height="400">
+<img src="https://wakatime.com/share/@pranjalsingh03/65b3d470-0bcb-4787-b6a9-4675182043d9.svg" alt="Wakatime Stats" height="400">
+
