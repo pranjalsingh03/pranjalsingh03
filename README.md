@@ -21,6 +21,7 @@
  -->
 <!--  -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranjalsingh03)](https://git.io/streak-stats)
+[![An image of @pranjalsingh03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalsingh03)](https://holopin.io/@pranjalsingh03)
 <!--<h2>Weekly development breakdown</h2>-->
 <!-- <img src="https://wakatime.com/share/@pranjalsingh03/d13d072a-ca9e-4405-be30-b3ae56fbe12c.svg" alt="Wakatime Stats" height="400"> -->
 <!-- <img src="https://wakatime.com/share/@pranjalsingh03/65b3d470-0bcb-4787-b6a9-4675182043d9.svg" alt="Wakatime Stats" height="400"> -->
